@@ -3,7 +3,6 @@ import 'dart:io';
 
 import 'package:html/dom.dart';
 import 'package:html/parser.dart' show parse;
-import 'package:http/http.dart';
 
 import 'package:cuba_weather_dart/src/utils/utils.dart';
 import 'package:cuba_weather_dart/src/models/models.dart';

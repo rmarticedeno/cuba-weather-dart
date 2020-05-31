@@ -2,7 +2,6 @@ import 'dart:developer';
 
 import 'package:cuba_weather_dart/src/models/models.dart';
 import 'package:cuba_weather_dart/src/utils/utils.dart';
-import 'package:http/http.dart';
 import 'package:xml/xml.dart';
 
 /// Class to provide the functionality of making API requests

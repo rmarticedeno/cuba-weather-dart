@@ -1,7 +1,5 @@
 import 'dart:convert';
 
-import 'package:http/http.dart';
-
 import 'package:cuba_weather_dart/src/models/models.dart';
 import 'package:cuba_weather_dart/src/utils/utils.dart';
 
